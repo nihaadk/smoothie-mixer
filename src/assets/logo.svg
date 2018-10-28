@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="350px" height="75px" viewBox="0 0 350 75" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <title>logo-horizontal-1 copy</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-41.2%" y="-20.0%" width="179.4%" height="141.7%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="1" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <text id="text-2" font-family="ArialRoundedMTBold, Arial Rounded MT Bold" font-size="28" font-weight="normal" letter-spacing="4" fill="#FFFFFF">
+            <tspan x="45" y="26">SMOOTHIE</tspan>
+        </text>
+        <filter x="-3.7%" y="-15.6%" width="107.4%" height="143.8%" filterUnits="objectBoundingBox" id="filter-3">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <text id="text-4" font-family="ArialRoundedMTBold, Arial Rounded MT Bold" font-size="28" font-weight="normal" letter-spacing="22" fill="#FFFFFF">
+            <tspan x="50" y="58">MIXE</tspan>
+            <tspan x="205.675781" y="58">R</tspan>
+        </text>
+        <filter x="-3.3%" y="-15.6%" width="107.8%" height="143.8%" filterUnits="objectBoundingBox" id="filter-5">
+            <feOffset dx="1" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="logo-horizontal-1-copy" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group" transform="translate(72.000000, 5.000000)">
+            <g id="LOGO" filter="url(#filter-1)" fill-rule="nonzero">
+                <path d="M1.77132829,7.88580795 L1.53701804,13.1388314 L17.2206249,13.0718784 L19.0789182,9.61145055 L1.77132829,7.88580795 Z" id="Rectangle" stroke="#FFFFFF" stroke-width="2" transform="translate(10.579885, 10.464621) rotate(57.000000) translate(-10.579885, -10.464621) "></path>
+                <path d="M0,20 L4,58 C9.72222222,59 13.9722222,59.5 16.75,59.5 C19.5277778,59.5 23.6111111,59 29,58 L33.5,20 C26.2222222,18.6666667 20.6388889,18 16.75,18 C12.8611111,18 7.27777778,18.6666667 0,20 Z" id="Path-6" stroke="#FFFFFF" stroke-width="2"></path>
+                <path d="M3,23.5903614 L6.2238806,53.8072289 C10.8358209,54.6024096 14.261194,55 16.5,55 C18.738806,55 22.0298507,54.6024096 26.3731343,53.8072289 L30,23.5903614 C24.1343284,22.5301205 19.6343284,22 16.5,22 C13.3656716,22 8.86567164,22.5301205 3,23.5903614 Z" id="Path-6" stroke="#FFFFFF" stroke-width="1.5"></path>
+                <circle id="Oval" fill="#FFFFFF" cx="17" cy="33" r="3"></circle>
+                <circle id="Oval" fill="#FFFFFF" cx="21.5" cy="39.5" r="2.5"></circle>
+                <circle id="Oval" fill="#FFFFFF" cx="13" cy="40" r="2"></circle>
+                <circle id="Oval" fill="#FFFFFF" cx="16.5" cy="46.5" r="1.5"></circle>
+            </g>
+            <g id="SMOOTHIE" fill="#FFFFFF" fill-opacity="1">
+                <use filter="url(#filter-3)" xlink:href="#text-2"></use>
+                <use xlink:href="#text-2"></use>
+            </g>
+            <g id="MIXER" fill="#FFFFFF" fill-opacity="1">
+                <use filter="url(#filter-5)" xlink:href="#text-4"></use>
+                <use xlink:href="#text-4"></use>
+            </g>
+        </g>
+    </g>
+</svg>
