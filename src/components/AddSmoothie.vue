@@ -2,7 +2,7 @@
     <div class="add-smoothie container">
       <div class="card">
        <div class="card-content">
-          <h2 class="center-align amber-text darken-1-text">Add new Smoothie Recipe</h2>
+          <h2 class="center-align amber-text">Add new Smoothie Recipe</h2>
         <form @submit.prevent="addSmoothie">
           <div class="field title">
             <label for="title">Smoothie Title:</label>
