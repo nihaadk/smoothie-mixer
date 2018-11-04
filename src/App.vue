@@ -19,7 +19,7 @@ export default {
 <style>
   .app-bg {
     height: 100vw;
-    background-image: url('../src/assets/bg-smoothie.png');
+    background-image: url('../src/assets/smoothie-bg.png');
   }
 
   input[type=text]:focus + label {

@@ -36,4 +36,11 @@ export default {
     height: auto;
     margin: 0 auto;
 }
+
+@media only screen and (max-width: 600px) {
+    .logo {
+        max-width: 80%;
+    }   
+}
+
 </style>
