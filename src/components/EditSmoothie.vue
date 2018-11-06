@@ -2,7 +2,7 @@
     <div v-if="smoothie" class="edit-smoothie container">
         <div class="card">
             <div class="card-content">
-                <h2 class="center-align amber-text">Edit {{ this.smoothie.title }} Smoothie</h2>
+                <h2 class="center-align amber-text">{{ this.smoothie.title }} Smoothie</h2>
                 <form @submit.prevent="editSmoothie">
                     <div class="field title">
                         <label for="title">Smoothie Title:</label>
@@ -15,7 +15,7 @@
                     </div>
                     <div class="add-ingredient">
                         <label for="add-ingredient">Add an ingredient:</label>
-                        <input type="text" name="add-ingredient" @keydown.tab.prevent="addIng" v-model="another">
+                        <input placeholder="Add ingredient and press tab" type="text" name="add-ingredient" @keydown.tab.prevent="addIng" v-model="another">
                     </div>
                     <div class="field center-align">
                         <p v-if="feedback" class="red-text">{{ feedback }}</p>
