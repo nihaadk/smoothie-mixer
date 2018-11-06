@@ -1,6 +1,7 @@
 # smoothie-mixer
 
-> Smoothie Mixer
+I have created the Smoothie mixer APP for testing Vue JS and Firebase. And created the logo and the material Design with the Framework [materializecss](https://materializecss.com).
+
 
 ## Build Setup
 
@@ -17,6 +18,10 @@ npm run build
 # build for production and view the bundle analyzer report
 npm run build --report
 ```
+# Screenshots
 
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
-# smoothie-mixer
+<img align="left" width="220" alt="1" src="https://user-images.githubusercontent.com/6087113/48088903-7b86a100-e203-11e8-84ae-fbe967e7d3a8.png">
+
+<img align="left" width="220" alt="1" src="https://user-images.githubusercontent.com/6087113/48088986-ad980300-e203-11e8-9435-c56ecec16601.png">
+
+<img align="left" width="220" alt="1" src="https://user-images.githubusercontent.com/6087113/48089016-c30d2d00-e203-11e8-926a-4ff3d7de5047.png">
