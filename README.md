@@ -2,6 +2,8 @@
 
 I have created the Smoothie mixer APP for testing Vue JS and Firebase. And created the logo and the material Design with the Framework [materializecss](https://materializecss.com).
 
+## [DEMO](https://smoothie-mixer.firebaseapp.com)
+
 
 ## Build Setup
 
