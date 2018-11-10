@@ -1,6 +1,6 @@
 # Smoothie Mixer
 
-![smoothi-logo](https://user-images.githubusercontent.com/6087113/48301111-8a61a200-e4e8-11e8-8d51-30b701baa75a.png)
+![smoothi-logo](https://user-images.githubusercontent.com/6087113/48301111-8a61a200-e4e8-11e8-8d51-30b701baa75a.png?style=centerme)
 
 
 I have created the Smoothie mixer APP for testing Vue JS and Firebase. And created the logo and the material Design with the Framework [materializecss](https://materializecss.com).
