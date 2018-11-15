@@ -23,6 +23,14 @@ npm run build
 # build for production and view the bundle analyzer report
 npm run build --report
 ```
+
+## Built With
+
+* [VueJS 2](https://vuejs.org/)
+* [Materializecss](https://materializecss.com/)
+* [Firebase](https://firebase.google.com/)
+
+
 # Screenshots
 
 <img align="left" width="220" alt="1" src="https://user-images.githubusercontent.com/6087113/48088903-7b86a100-e203-11e8-84ae-fbe967e7d3a8.png">
